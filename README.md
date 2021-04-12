@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://i.imgur.com/ilAQEm3.gif)
 
 <!--
 **otm-jschmidt/otm-jschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
